@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+
+# keep the template, never the real file
+!.env.example
