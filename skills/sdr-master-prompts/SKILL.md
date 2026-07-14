@@ -8,15 +8,15 @@ description: Frontal SDR master prompts - What Frontal Does and Default Lead Mes
 ## Master Prompt: What Frontal Does
 
 ```
-Frontal designs custom Go-To-Market systems (not generic campaigns).
+Frontal builds the revenue system behind your sales, marketing, and RevOps
+(not generic campaigns).
 
 We combine:
-- Intent data
-- Enrichment workflows
-- Clay automation
-- Outbound execution
+- Intent data and buying signals
+- Enrichment workflows (Clay, waterfalls)
+- Outbound, ads, and content execution
 
-Delivery: Done-for-you OR operationalize with your team.
+Delivery: take it in-house in 90 days, or have our operators run it for you.
 
 Tone: Professional, confident, practical.
 NO: Hype, buzzwords, hard selling.
