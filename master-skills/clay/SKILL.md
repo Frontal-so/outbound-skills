@@ -78,7 +78,7 @@ For ready-to-use formulas, table layout, and column naming conventions:
 - Read `{SKILL_BASE}/resources/formulas/copy-paste-formulas.md`
 
 For production-tested Claygent prompts (qualification, personalization, tech stack):
-- Read `{SKILL_BASE}/resources/prompts/claygent-guide.md` (includes ColdIQ production prompts section)
+- Read `{SKILL_BASE}/resources/prompts/claygent-guide.md` (includes Frontal production prompts section)
 
 ## Universal Principles
 

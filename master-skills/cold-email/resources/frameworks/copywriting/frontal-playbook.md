@@ -1,4 +1,4 @@
-# ColdIQ Cold Email Playbook
+# Frontal Cold Email Playbook
 
 Operational insights from 250K+ emails sent and 73 prospect calls.
 
@@ -103,7 +103,7 @@ Would it make sense to see what {{company}} qualifies for?
 
 ---
 
-## ColdIQ Principles (from 250K+ Emails)
+## Frontal Principles (from 250K+ Emails)
 
 1. **Write for the 97%** — Optimize for the majority who won't reply, not the 3% who will
 2. **70-90 words optimal** — Keep it tight
@@ -126,7 +126,7 @@ Would it make sense to see what {{company}} qualifies for?
 
 ---
 
-## ColdIQ Pain-Point Angles (from 73 Prospect Calls)
+## Frontal Pain-Point Angles (from 73 Prospect Calls)
 
 Use these proven angles when selling outbound/GTM services:
 

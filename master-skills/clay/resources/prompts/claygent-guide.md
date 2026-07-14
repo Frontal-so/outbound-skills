@@ -97,7 +97,7 @@ Available formats: text, number, URL, true/false, custom
 
 Always specify the exact format you want in the prompt to avoid inconsistent outputs.
 
-## ColdIQ Production Prompts
+## Frontal Production Prompts
 
 ### Company Qualification
 ```

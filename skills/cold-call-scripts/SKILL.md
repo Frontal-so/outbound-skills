@@ -11,7 +11,7 @@ For objection responses, see [references/objections.md](references/objections.md
 
 | Step | Script | Purpose |
 |------|--------|---------|
-| 1 | "Hey {{firstName}}, this is [Name] from ColdIQ—I know I'm catching you out of the blue." | Pattern interrupt |
+| 1 | "Hey {{firstName}}, this is [Name] from Frontal—I know I'm catching you out of the blue." | Pattern interrupt |
 | 2 | "Mind if I take 30 seconds to tell you why I called? Then you can decide if it's worth continuing." | Earn permission |
 | 3 | "I work with [ICP] who are struggling with [problem]." | Establish relevance |
 | 4 | "We just helped [similar company] achieve [result]." | Social proof |
@@ -20,7 +20,7 @@ For objection responses, see [references/objections.md](references/objections.md
 ## Full Script Example
 
 ```
-"Hey Sarah, this is Mike from ColdIQ—I know I'm catching you out of the blue.
+"Hey Sarah, this is Mike from Frontal—I know I'm catching you out of the blue.
 
 Mind if I take 30 seconds to tell you why I called? Then you can decide if it's worth continuing.
 
@@ -34,7 +34,7 @@ Is pipeline predictability something you're dealing with right now?"
 ## No-Show Phone Script
 
 ```
-"Hey {{firstName}}, it's [Name] from ColdIQ.
+"Hey {{firstName}}, it's [Name] from Frontal.
 
 We had a call scheduled for [time]—wanted to make sure everything's okay.
 
@@ -46,7 +46,7 @@ No worries if something came up. Would [alternative time] work better?"
 ## Voicemail Script (Under 20 seconds)
 
 ```
-"Hey {{firstName}}, [Name] from ColdIQ.
+"Hey {{firstName}}, [Name] from Frontal.
 
 Quick message—I work with [ICP] on [problem].
 

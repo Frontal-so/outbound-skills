@@ -209,11 +209,11 @@ Chain multiple enrichments in one streamlined flow:
 - [Clay Help Center](https://docs.clay.com/en/) — credit tracking and tutorials
 - [Clay Templates Gallery](https://www.clay.com/templates) — official templates
 - [Clay University](https://www.clay.com/university) — learning modules
-- [ColdIQ AI Sales Tools](https://www.coldiq.com/ai-sales-tools) — tool glossary
-- [ColdIQ 55 B2B Data Sources](https://www.coldiq.com/b2b-data-sources) — data source guide
-- [ColdIQ 37 Sales Triggers](https://www.coldiq.com/sales-triggers) — signal reference
+- [Frontal AI Sales Tools](https://www.frontal.so/ai-sales-tools) — tool glossary
+- [Frontal 55 B2B Data Sources](https://www.frontal.so/b2b-data-sources) — data source guide
+- [Frontal 37 Sales Triggers](https://www.frontal.so/sales-triggers) — signal reference
 - [Trigify.io Guide](https://b2b-boosted.subpage.co/trigify-social-signals) — campaign automation
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

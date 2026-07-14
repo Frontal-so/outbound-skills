@@ -312,7 +312,7 @@ Examples:
 
 ---
 
-## ColdIQ Sequence Base (Quick Reference)
+## Frontal Sequence Base (Quick Reference)
 
 Trigger-based message with soft CTA. Pick your trigger:
 
@@ -330,4 +330,4 @@ Trigger-based message with soft CTA. Pick your trigger:
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

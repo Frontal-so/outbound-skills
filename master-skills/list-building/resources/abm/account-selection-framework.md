@@ -39,7 +39,7 @@ $1,000,000 ÷ $50,000 = 20 deals
 | **Considering** | Booked a demo / signed up for trial | Close rate applies |
 | **Selecting** | Open deal in pipeline | Win rate applies |
 
-*Source: ColdIQ — ABX benchmarks from real client programs*
+*Source: Frontal — ABX benchmarks from real client programs*
 
 ---
 
@@ -233,7 +233,7 @@ IF Impressions ≥ 50 AND ABM Stage = "Identified":
 
 ---
 
-## Real-World Results (ColdIQ Client Case Study)
+## Real-World Results (Frontal Client Case Study)
 
 ### After 90 Days (First Campaign)
 
@@ -258,8 +258,8 @@ IF Impressions ≥ 50 AND ABM Stage = "Identified":
 
 **Versus cold outbound:** ABM took half the time and cost 51% less to generate the same pipeline.
 
-*Source: ColdIQ*
+*Source: Frontal*
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

@@ -270,7 +270,7 @@ For DNS troubleshooting, see [troubleshooting.md](troubleshooting.md).
 ### Deliverability Settings (Instantly)
 
 - **Text-only first email** — reduces spam filter triggers
-- **Disable open tracking** — improves inbox placement (ColdIQ default)
+- **Disable open tracking** — improves inbox placement (Frontal default)
 - **ESP matching** — Google sends to Gmail, Microsoft sends to Outlook
 - **Limit emails per company** — 2–3 per company per day (workspace-wide)
 - **Slow ramp** — enable for new accounts only
@@ -355,4 +355,4 @@ Don't panic during seasonal dips. Investigate only if the drop exceeds norms or 
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

@@ -70,7 +70,7 @@ Based on {{company_description}}, here are 3 ideas:
 
 [1] {{AI_generated_idea_1}}
 [2] {{AI_generated_idea_2}}
-[3] Hire a sales prospecting agency (like ColdIQ) to start generating leads on autopilot
+[3] Hire a sales prospecting agency (like Frontal) to start generating leads on autopilot
 
 I'd probably give better ideas with more context.
 

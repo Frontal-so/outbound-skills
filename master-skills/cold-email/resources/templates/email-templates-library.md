@@ -218,7 +218,7 @@ Worth another look?
 
 ---
 
-## 7 Email 1 Variations (ColdIQ Core Framework)
+## 7 Email 1 Variations (Frontal Core Framework)
 
 ### Variation 1: Observation → Solution → Proof → CTA
 ```

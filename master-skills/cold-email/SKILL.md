@@ -59,7 +59,7 @@ For deep copywriting guidance beyond the sub-skill's quick reference:
 - **Core philosophy and email component rules** --> Read `{SKILL_BASE}/resources/frameworks/copywriting/copywriting-principles.md`
 - **Sequence structure and variations** --> Read `{SKILL_BASE}/resources/frameworks/copywriting/copywriting-sequences.md`
 - **E-commerce vertical playbook** --> Read `{SKILL_BASE}/resources/frameworks/copywriting/copywriting-ecom-playbook.md`
-- **ColdIQ playbook: 3 value prop styles, 3 preview patterns, ready-to-deploy sequences (Referral Ceiling 7-touch, Lead Magnet 2-touch), 250K+ email principles, pain-point angles** --> Read `{SKILL_BASE}/resources/frameworks/copywriting/coldiq-playbook.md`
+- **Frontal playbook: 3 value prop styles, 3 preview patterns, ready-to-deploy sequences (Referral Ceiling 7-touch, Lead Magnet 2-touch), 250K+ email principles, pain-point angles** --> Read `{SKILL_BASE}/resources/frameworks/copywriting/frontal-playbook.md`
 
 ### Email Infrastructure Resources
 

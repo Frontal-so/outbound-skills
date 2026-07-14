@@ -1,6 +1,6 @@
 # Qualification Workflow — From Raw List to Campaign-Ready Accounts
 
-## ColdIQ Tier System
+## Frontal Tier System
 
 ### Company Tiers (Apply with Clay AI)
 

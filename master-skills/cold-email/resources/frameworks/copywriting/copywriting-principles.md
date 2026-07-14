@@ -228,7 +228,7 @@ Email providers scan content for spam patterns. Too many trigger words = higher 
 
 ### Spam Checker Tools
 
-- **ColdIQ Email Spam Checker** — https://coldiq.com/free-tools/email-spam-checker
+- **Frontal Email Spam Checker** — https://frontal.so/free-tools/email-spam-checker
 - **Salesforge Spam Checker** — https://www.salesforge.ai/tools/email-spam-checker
 - **Mailmeteor Spam Checker** — https://mailmeteor.com/spam-checker
 - **Instantly built-in checker** — available in the sequence editor
@@ -262,4 +262,4 @@ Email providers scan content for spam patterns. Too many trigger words = higher 
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

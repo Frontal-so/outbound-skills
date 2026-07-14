@@ -15,7 +15,7 @@ Read these resources based on the user's question:
 - **Core philosophy, rules, and email components** → Read `{SKILL_BASE}/resources/frameworks/copywriting/copywriting-principles.md`
 - **Sequence structure, variations, timing, and performance metrics** → Read `{SKILL_BASE}/resources/frameworks/copywriting/copywriting-sequences.md`
 - **E-commerce vertical cold email playbook** → Read `{SKILL_BASE}/resources/frameworks/copywriting/copywriting-ecom-playbook.md`
-- **ColdIQ operational playbook: value prop styles, preview patterns, ready-to-deploy sequences, 250K+ email insights** → Read `{SKILL_BASE}/resources/frameworks/copywriting/coldiq-playbook.md`
+- **Frontal operational playbook: value prop styles, preview patterns, ready-to-deploy sequences, 250K+ email insights** → Read `{SKILL_BASE}/resources/frameworks/copywriting/frontal-playbook.md`
 
 ## 13 Named Frameworks
 

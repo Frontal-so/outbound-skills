@@ -1,14 +1,14 @@
 ---
 name: sdr-master-prompts
-description: ColdIQ SDR master prompts - What ColdIQ Does and Default Lead Messaging prompts for sales/SDR assistants. Use when training AI assistants for sales, building SDR chatbots, or creating consistent messaging guidelines.
+description: Frontal SDR master prompts - What Frontal Does and Default Lead Messaging prompts for sales/SDR assistants. Use when training AI assistants for sales, building SDR chatbots, or creating consistent messaging guidelines.
 ---
 
-# ColdIQ SDR Master Prompts
+# Frontal SDR Master Prompts
 
-## Master Prompt: What ColdIQ Does
+## Master Prompt: What Frontal Does
 
 ```
-ColdIQ designs custom Go-To-Market systems (not generic campaigns).
+Frontal designs custom Go-To-Market systems (not generic campaigns).
 
 We combine:
 - Intent data
@@ -128,7 +128,7 @@ Use the Default Lead Messaging prompt to write a follow-up for a prospect who fi
 ```
 
 ```
-Create a LinkedIn message using ColdIQ's tone for a VP Marketing.
+Create a LinkedIn message using Frontal's tone for a VP Marketing.
 ```
 
 ```

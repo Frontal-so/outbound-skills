@@ -1,9 +1,9 @@
 ---
-name: coldiq-messaging-templates
-description: 6 ColdIQ messaging templates - Ask Before Pitch, Not Too Different Persona, Upfront Value, Leverage Content, and Why Are You Paying. Use when creating outreach campaigns, A/B testing message structures, or choosing a messaging approach.
+name: frontal-messaging-templates
+description: 6 Frontal messaging templates - Ask Before Pitch, Not Too Different Persona, Upfront Value, Leverage Content, and Why Are You Paying. Use when creating outreach campaigns, A/B testing message structures, or choosing a messaging approach.
 ---
 
-# ColdIQ Messaging Templates
+# Frontal Messaging Templates
 
 ## 1. Ask Before Pitch (Will Allred)
 

@@ -78,7 +78,7 @@ Load the appropriate reference based on the sub-skill being invoked:
 - **Lead sources, Clay Find People, webhooks, import methods** -> Read `{SKILL_BASE}/resources/lead-sources-guide.md`
 - **Email/phone verification, bounce management, data decay, list hygiene** -> Read `{SKILL_BASE}/resources/data-validation.md`
 - **Step-by-step Clay pipeline, AI model selection, conditional formulas** -> Read `{SKILL_BASE}/resources/templates/beginner-workflow.md`
-- **Qualification workflow: ColdIQ tier system, weighted scoring, Clay AI prompts, real examples, good list template** -> Read `{SKILL_BASE}/resources/templates/qualification-workflow.md`
+- **Qualification workflow: Frontal tier system, weighted scoring, Clay AI prompts, real examples, good list template** -> Read `{SKILL_BASE}/resources/templates/qualification-workflow.md`
 
 ### Advanced List Building Resources
 

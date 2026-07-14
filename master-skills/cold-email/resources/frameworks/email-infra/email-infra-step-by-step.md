@@ -280,7 +280,7 @@ Check daily:
 Navigate to: Campaign → Settings → Advanced Deliverability
 
 1. **Text-only first email:** Enable "Always send first email as text-only"
-2. **Disable open tracking:** Enable (ColdIQ default — tracking ≠ success metric)
+2. **Disable open tracking:** Enable (Frontal default — tracking ≠ success metric)
 3. **ESP matching:** Enable (Google sends to Gmail, Microsoft sends to Outlook)
 4. **Limit emails per company:** Set 2–3/day, workspace-wide
 
@@ -361,4 +361,4 @@ Add all healthy accounts to campaign rotation. More accounts = lower volume per 
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

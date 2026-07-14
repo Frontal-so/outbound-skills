@@ -279,8 +279,8 @@ Use formula fields to auto-generate campaign names from properties, ensuring cle
 | One persona never progresses past Aware | Revisit messaging or drop from targeting |
 | BDRs get higher reply rates from Champions than Economic Buyers | Focus BDR outreach on Champions first |
 
-*Source: ColdIQ*
+*Source: Frontal*
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

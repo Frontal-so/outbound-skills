@@ -24,7 +24,7 @@ Job Change Tracker + Website Visitors + LinkedIn Engagers
 
 **Full GTM Flywheel Pack (Advanced):**
 10+ templates for complete inbound-led outbound motion
-→ The system ColdIQ uses internally
+→ The system Frontal uses internally
 
 ---
 
@@ -203,4 +203,4 @@ Ready-to-use templates for specific verticals (6 templates across various indust
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

@@ -92,7 +92,7 @@ If no reply after Email 3 → wait 3 months, then re-engage with a fresh sequenc
 >
 > Are you manually creating proposals for every new deal?
 >
-> We're helping agencies like Digital Reach and ColdIQ to replace PowerPoint & PandaDoc and impress with visuals, without needing a designer.
+> We're helping agencies like Digital Reach and Frontal to replace PowerPoint & PandaDoc and impress with visuals, without needing a designer.
 >
 > Would this be something you're looking to solve as well?
 
@@ -267,4 +267,4 @@ If no reply after Email 3 → wait 3 months, then re-engage with a fresh sequenc
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

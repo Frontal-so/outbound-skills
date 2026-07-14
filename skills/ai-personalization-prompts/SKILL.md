@@ -31,7 +31,7 @@ Quick reference for AI prompts. For full prompts with rules, see [references/pro
 | Prompt | Input | Output |
 |--------|-------|--------|
 | ICP ID | "CRM software" | "Sales leaders, RevOps managers and AEs" |
-| Description | "coldiq.com" | "outbound automation (for B2B sales teams)" |
+| Description | "frontal.so" | "outbound automation (for B2B sales teams)" |
 | Similar | "calendly.com" | "scheduling software" |
 | Problems | "HR software" | "slow hiring, poor retention, and compliance gaps" |
 | Subject | "analytics platform" | "your metrics" |
@@ -52,7 +52,7 @@ Quick reference for AI prompts. For full prompts with rules, see [references/pro
 | `clay-enrichment-9step` | Run prompts via Claygent |
 | `personalization-6-buckets` | Know what data to feed prompts |
 | `cold-email-templates-34` | Use outputs in email templates |
-| `coldiq-messaging-templates` | Combine with case study template |
+| `frontal-messaging-templates` | Combine with case study template |
 
 ## Example prompts
 

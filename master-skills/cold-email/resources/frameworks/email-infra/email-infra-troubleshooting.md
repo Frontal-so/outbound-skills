@@ -243,9 +243,9 @@ When something goes wrong, ask:
 1. Re-watch the Step 4 setup videos (most issues are missed steps)
 2. Contact registrar support (they can verify records are saved)
 3. MXToolbox "Check DNS" feature (shows exactly what's missing)
-4. ColdIQ community (share screenshots, hide sensitive values)
+4. Frontal community (share screenshots, hide sensitive values)
 5. Tag @Louis or @Nik for urgent issues
 
 ---
 
-> **Built by [ColdIQ](https://www.coldiq.com) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
