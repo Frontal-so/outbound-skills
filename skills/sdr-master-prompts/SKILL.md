@@ -134,3 +134,8 @@ Create a LinkedIn message using Frontal's tone for a VP Marketing.
 ```
 Write a WhatsApp message for a lead who missed their demo call.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

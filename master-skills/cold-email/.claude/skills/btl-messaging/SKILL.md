@@ -86,3 +86,8 @@ If you're anything like other {{title}}s at {{industry}} companies, you're spend
 
 Want to see the workflow?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

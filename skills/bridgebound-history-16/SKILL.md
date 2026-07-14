@@ -95,3 +95,8 @@ How do I track when competitors' customers are up for renewal?
 ```
 Write a sequence for trigger #9 (Customers Who Went to Another Company).
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

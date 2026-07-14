@@ -82,3 +82,8 @@ Example 2: "A VP just visited our pricing page"
 
 Example 3: "We have EU traffic, what tool should we use?"
 -> IP-based only for GDPR compliance. Leadfeeder (Dealfront) from EUR 99/mo, or Clearbit/Breeze if on HubSpot. Company-level identification, 35-40% match rate. Stack with LinkedIn engagement for person-level context
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

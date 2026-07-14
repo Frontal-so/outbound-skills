@@ -121,3 +121,8 @@ Example 2: "A prospect has 3 signals firing - what do I do?"
 
 Example 3: "How do I prioritize my signal queue?"
 -> Sort by compound score (highest first), then by recency of most recent signal. Red Hot (150+) always first. Within same heat level, prioritize accounts with freshest signals (24h > 7d > 14d). Assign capacity: AE handles top 5 Red Hot/day, SDR handles top 20 Hot/day. Use Play 10 (ServiceBell Allbound) for website visitor signals, Play 11 (Inbound Followers) for content engagement.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

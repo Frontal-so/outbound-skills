@@ -134,3 +134,8 @@ What benchmarks should I target for a signal-based campaign?
 ```
 My Email 2 has lower opens than Email 1 - is that normal?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

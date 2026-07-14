@@ -79,3 +79,8 @@ Example outputs:
 
 **Example 3:** "I want personalized icebreakers based on their latest blog post"
 --> Step 1: Claygent to extract latest blog topic (1 credit). Step 2: Separate AI column (GPT-4 Mini) to write icebreaker from that topic (1 credit). Never combine both in one column.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -135,3 +135,8 @@ Write a Camp Personalization Bridgebound email for this prospect: [details]
 ```
 Create a No Personalization Outbound template for targeting DevOps managers.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

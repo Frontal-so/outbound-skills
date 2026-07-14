@@ -71,3 +71,8 @@ How do I configure Step 4 (Email Waterfall) to maximize coverage?
 ```
 Create a scoring model for SaaS companies targeting enterprise accounts.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

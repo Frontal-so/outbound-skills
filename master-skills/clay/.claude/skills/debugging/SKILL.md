@@ -88,3 +88,8 @@ When a user reports a problem, ask these questions:
 
 **Example 3:** "Claygent keeps returning different formats for the same question"
 --> Add explicit output format in prompt: "Output exactly 'Yes' or 'No', nothing else." Use "purple" as null keyword. Add 3-4 examples of expected output. Use Claygent Neon, not GPT-4.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -93,3 +93,8 @@ Create a messaging strategy for Bridgebound leads with job change signals.
 ```
 How do I transition a Postbound lead to a sales conversation?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -110,3 +110,8 @@ Set up a Clay template for Apollo → enrichment → email verification.
 ```
 How do I find lookalike companies to my best customers?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

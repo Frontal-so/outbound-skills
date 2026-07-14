@@ -152,3 +152,8 @@ Give me 3 variations of Email 1 for targeting CFOs at mid-market companies.
 ```
 Which variation should I use when I have strong social proof numbers?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -127,3 +127,8 @@ Create an ATL email about cost reduction for a VP Operations at a logistics comp
 ```
 I have a BTL champion - write a BTL email I can ask them to forward to their VP.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -118,3 +118,8 @@ What lead magnet should I use for targeting RevOps managers?
 ```
 How do I make my LinkedIn sequence appear more human?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

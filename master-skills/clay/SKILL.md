@@ -99,3 +99,8 @@ These apply to ALL Clay workflows regardless of sub-skill:
 3. Estimate credit cost and suggest optimizations
 4. Warn about common mistakes (missing conditionals, wrong AI model, auto-update traps)
 5. Include Clayscript formulas when relevant
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -138,3 +138,8 @@ Rewrite this 150-word email to be under 90 words.
 ```
 Which of the 8 frameworks should I use for a cold outbound campaign?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

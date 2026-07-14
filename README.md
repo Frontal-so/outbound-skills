@@ -49,7 +49,7 @@ npx skills add frontal-so/outbound-skills/skills/cold-email-templates-34
 
 ## Credit
 
-Built on the GTM skills library originally developed at ColdIQ. Maintained by [Frontal](https://frontal.so).
+Built and maintained by [Frontal](https://frontal.so).
 
 ## License
 

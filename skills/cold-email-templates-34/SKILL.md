@@ -61,3 +61,8 @@ Which template works best for prospects who just got funding?
 ```
 Adapt template #20 (New Exec) for a CMO at a fintech company.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

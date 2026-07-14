@@ -134,3 +134,8 @@ Which bucket should I prioritize for a quick 50-prospect campaign?
 ```
 Create a strong hook using Bucket 6 (Company Level) data about their funding.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

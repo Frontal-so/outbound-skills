@@ -80,3 +80,8 @@ Thought of {{company}} given {{trigger}}.
 
 If this isn't you, who handles {{topic}} on your team?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

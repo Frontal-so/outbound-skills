@@ -138,3 +138,8 @@ How do I stack multiple signals for heat scoring in Clay?
 ```
 Create a workflow that detects funding + hiring signals together.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

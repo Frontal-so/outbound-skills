@@ -84,3 +84,8 @@ You help users create and configure Clay tables with the right structure, data t
 
 **Example 3:** "My table has 60 columns and is getting messy"
 --> Hide completed/intermediate columns. Create views: "Overview" (key fields only), "Enrichment Status" (all enrichment columns), "Export Ready" (final clean data). Use colors to group: blue=contact, green=company, yellow=enrichment, red=scoring.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

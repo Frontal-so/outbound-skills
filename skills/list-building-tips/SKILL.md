@@ -100,3 +100,8 @@ What's the fastest way to build a 500-prospect list for fintech CFOs?
 ```
 How do I diagnose why my email bounce rate is above 2%?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

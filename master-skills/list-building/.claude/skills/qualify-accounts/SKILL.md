@@ -67,3 +67,8 @@ Read `{SKILL_BASE}/resources/templates/qualification-workflow.md` — Frontal ti
 
 **Example 3:** "We want to do ABM for enterprise accounts"
 -> Select 20-30 Tier 1 accounts scoring 90+. Map 5-6 contacts per account (buying committee). Layer first-party intent (website visits) + third-party (Bombora topics). Create custom landing pages per account. Multi-channel: LinkedIn + email + direct mail + ads.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

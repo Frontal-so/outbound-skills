@@ -88,3 +88,8 @@ Option B: "different angle" (curiosity)
 Option C: "quick question" (universal opener)
 Recommendation: A/B test Option A vs Option B
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

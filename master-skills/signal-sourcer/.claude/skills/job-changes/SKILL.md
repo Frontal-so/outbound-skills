@@ -74,3 +74,8 @@ Example 2: "Someone just started as VP Sales at a target account"
 
 Example 3: "Build a job change signal workflow in Clay"
 -> Create tracking table with Person LinkedIn URLs, add enrichment columns (new company, title, start date), filter ICP match, calculate days-since-change, route to Slack alerts for day 14+ changes
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

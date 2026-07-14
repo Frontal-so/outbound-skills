@@ -130,3 +130,8 @@ Create an "Upfront Value" email offering a competitor analysis for marketing age
 ```
 Use the "Why Are You Paying" template for companies using Outreach.io.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

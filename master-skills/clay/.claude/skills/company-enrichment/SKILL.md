@@ -66,3 +66,8 @@ Always add conditional runs: only call the next provider if the previous one lef
 
 **Example 3:** "I imported 30K companies from Salesforce with only names, no domains"
 --> Use Google Search via Claygent to find domains first. Then run standard company enrichment waterfall. Save enriched data back to Salesforce via CRM sync.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

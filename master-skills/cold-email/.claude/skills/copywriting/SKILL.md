@@ -63,3 +63,8 @@ Read these resources based on the user's question:
 
 **Example 3:** "I sell to e-commerce brands, help me write cold emails"
 → Load copywriting-ecom-playbook.md. Use low-risk free work offers, 15-30 word emails, casual tone.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

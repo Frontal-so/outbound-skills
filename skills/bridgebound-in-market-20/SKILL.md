@@ -90,3 +90,8 @@ How do I find churned customers from my competitor on G2?
 ```
 Create an outreach strategy for trigger #17 (Annual Event) targeting tax season.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -86,3 +86,8 @@ Explain the BIPSY framework for diagnosing my SDR team's issues.
 ```
 How do I balance volume vs quality for a mid-market SaaS product?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

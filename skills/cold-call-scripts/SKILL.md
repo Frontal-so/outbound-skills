@@ -79,3 +79,8 @@ Write a voicemail script for following up after a website visit.
 ```
 How do I handle "we already have a solution" for CRM software?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

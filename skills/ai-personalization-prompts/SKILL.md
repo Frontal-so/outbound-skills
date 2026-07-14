@@ -67,3 +67,8 @@ Create a 2-word subject line for a prospect selling HR software.
 ```
 Write template #7 (Similar Company Approach) with AI-generated variables for [company].
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

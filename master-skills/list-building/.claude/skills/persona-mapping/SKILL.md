@@ -61,3 +61,8 @@ Each persona needs:
 
 **Example 3:** "How should I name my campaigns for persona tracking?"
 → Use naming convention: [Campaign]-[Persona]-[AdType]-[JTBD]-[Stage]. Enables intent detection from campaign engagement data.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

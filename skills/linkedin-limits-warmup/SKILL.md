@@ -108,3 +108,8 @@ How many connection requests can I safely send per day with 200 pending?
 ```
 My acceptance rate dropped to 20% - what should I change?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

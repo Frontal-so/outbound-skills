@@ -84,3 +84,8 @@ From the beginner workflow — always apply:
 
 **Example 3:** "I'm running multiple campaigns, how do I avoid contacting the same person twice?"
 -> Build a master suppression list table in Clay or your CRM. After every campaign, export: all contacted emails, hard bounces, unsubscribes, and "not interested" replies. Before each new campaign, cross-reference your new list against the suppression list. Remove matches. Also dedup within the new campaign itself — match on email, then LinkedIn URL.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -91,3 +91,8 @@ How do I detect M&A activity for competitive displacement?
 ```
 Write a sequence for trigger #8 (Companies that Started Hiring) targeting DevOps.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

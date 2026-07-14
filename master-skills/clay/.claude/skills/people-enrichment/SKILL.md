@@ -80,3 +80,8 @@ Company List (with domains)
 
 **Example 3:** "I imported Sales Navigator leads but they only have LinkedIn URLs"
 --> Add LinkedIn Profile enrichment column with the URL as input. This gives you name, title, company, location. Then extract company domain and run company enrichment. Cost: 2 credits per profile.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

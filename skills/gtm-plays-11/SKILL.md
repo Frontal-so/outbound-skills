@@ -84,3 +84,8 @@ How do I set up Play #8 (Bad Reviews) in Clay with G2 scraping?
 ```
 Which play should I prioritize for a $30K ACV product?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -68,3 +68,8 @@ Create Email 1 and Email 4 for an agency selling to marketing directors at e-com
 ```
 Rewrite this email sequence to be more ATL-friendly (shorter, 2-3 sentences per email).
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

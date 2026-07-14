@@ -113,3 +113,8 @@ Create 3 lite hooks for SDR managers at Series B SaaS companies.
 ```
 Turn this LinkedIn post into a strong hook opening line: [paste post]
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

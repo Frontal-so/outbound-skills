@@ -80,3 +80,8 @@ Example 2: "A prospect just raised Series B"
 
 Example 3: "Build a funding-based outbound workflow"
 -> Clay: Crunchbase monitoring on ICP accounts, filter round >= $5M, enrich contacts (VP+), calculate weeks-since-announcement, route week 2-4 to SDR Slack channel, auto-add to CRM with signal tag
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -64,3 +64,8 @@ Define these for every ICP:
 
 **Example 3:** "How do I prioritize my target accounts?"
 -> Build scoring matrix with their specific criteria. Weight based on what correlates with closed-won deals. Analyze top 10-20 existing customers to reverse-engineer the ICP. Assign tiers and allocate outreach resources accordingly.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

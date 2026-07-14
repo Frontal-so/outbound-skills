@@ -103,3 +103,8 @@ Example 4: "How do I set up RB2B?"
 
 Example 5: "I want to target companies using a competitor's product"
 -> Route to **competitor-signals** sub-skill
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

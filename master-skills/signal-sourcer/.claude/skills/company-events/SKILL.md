@@ -77,3 +77,8 @@ Example 2: "Monitor M&A activity in my target market"
 
 Example 3: "A company just opened a new office in EMEA"
 -> 25pts signal. Reference regional expansion challenges (compliance, local processes, team coordination). Lighter touch - this week SLA. Stack with any hiring signals for the new location
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

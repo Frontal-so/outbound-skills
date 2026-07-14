@@ -78,3 +78,8 @@ After the waterfall, add a separate email verification column:
 
 **Example 3:** "Should I run personal email waterfall too?"
 --> Only if work email waterfall returns empty. Add conditional: "Only run if /work_email is empty". Use separate waterfall with personal email providers. Lower priority than work email.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

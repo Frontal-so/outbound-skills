@@ -75,3 +75,8 @@ Or only after email was found (prioritize email first):
 
 **Example 3:** "My phone numbers keep coming back as switchboard, not direct"
 --> Use LeadMagic or BetterContact (better at direct dials) instead of Apollo. Add a Claygent column to verify if number is direct or switchboard. Filter out non-direct numbers.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

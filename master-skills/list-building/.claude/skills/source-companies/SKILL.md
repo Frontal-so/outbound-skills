@@ -60,3 +60,8 @@ Read `{SKILL_BASE}/resources/lead-sources-guide.md` — all sections.
 
 **Example 3:** "How do I capture companies that engage with my LinkedIn posts?"
 -> Set up Triggery webhook connected to Clay. Configure trigger: LinkedIn post engagement (likes, comments). Clay auto-enriches company domain from LinkedIn profile. Apply ICP scoring, route Tier A/B to outreach sequences.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

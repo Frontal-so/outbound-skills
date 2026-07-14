@@ -73,3 +73,8 @@ Read these resources based on the user's question:
 
 **Example 3:** "Walk me through setting up a new domain from scratch"
 → Read email-infra-step-by-step.md. Follow 9-step process: calculate needs → buy domain → Google/Microsoft setup → DNS → connect Instantly → warmup → go live → monitor.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

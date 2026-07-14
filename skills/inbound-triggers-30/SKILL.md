@@ -90,3 +90,8 @@ Which inbound triggers should I prioritize for a high-velocity sales motion?
 ```
 Write an email for trigger #10 (Freemium Account Registrants) for a SaaS product.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

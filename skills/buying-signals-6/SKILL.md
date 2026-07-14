@@ -116,3 +116,8 @@ Create an outreach strategy combining job change + funding signals for fintech c
 ```
 How do I detect tech stack changes for companies using Salesforce?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

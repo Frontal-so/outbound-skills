@@ -78,3 +78,8 @@ Write connection request notes for VP Sales at SaaS companies.
 ```
 How do I coordinate LinkedIn messages with my email sequence?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

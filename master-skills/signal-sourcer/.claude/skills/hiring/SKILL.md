@@ -82,3 +82,8 @@ Example 2: "Target companies that do not have a dedicated RevOps person"
 
 Example 3: "Someone just left the marketing team at a target account"
 -> 1-2 week window. Reference the coverage gap by name. Position your solution as a way to maintain output during the transition. SDR sequence within 24h of detection
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

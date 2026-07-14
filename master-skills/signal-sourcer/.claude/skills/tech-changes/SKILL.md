@@ -87,3 +87,8 @@ Example 2: "Monitor tech stack changes across my TAM"
 
 Example 3: "Job posting mentions migrating from HubSpot to Salesforce"
 -> 30pts signal. CRM migration = 6-12 month project with many tool needs. Reference the migration pain. Position your solution as the tool that makes the transition smoother. Time outreach for early migration phase
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

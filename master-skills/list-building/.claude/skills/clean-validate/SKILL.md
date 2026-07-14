@@ -79,3 +79,8 @@ Email Sent -> Delivered -> Track engagement
 
 **Example 3:** "How often should I clean my list?"
 -> Verify 100% before every campaign, no exceptions. Weekly: remove hard bounces. Monthly: re-verify catch-all and risky. Quarterly: full refresh + purge unengaged. Email decays 22-30%/year, so a list from 6 months ago has ~11-15% bad data. Re-verify anything older than 30 days.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

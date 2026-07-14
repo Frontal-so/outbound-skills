@@ -99,3 +99,8 @@ Example 2: "Someone commented on our LinkedIn post and they match ICP"
 
 Example 3: "Track who attends our webinars and follow up"
 -> 25pts per attendee. Enrich in Clay with company/title data, filter to ICP, send recording + relevant offer within 48h. SDR owns outreach. Registrants who did NOT attend get lighter nurture follow-up
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

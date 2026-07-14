@@ -137,3 +137,8 @@ How do I build internal champions using Groundswell strategy?
 ```
 Write a Multi-Persona campaign targeting both CFO and Finance Manager.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

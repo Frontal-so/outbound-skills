@@ -89,3 +89,8 @@ Write an email targeting companies lacking marketing automation (trigger #5).
 ```
 How do I find companies with visible business problems in my ICP?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

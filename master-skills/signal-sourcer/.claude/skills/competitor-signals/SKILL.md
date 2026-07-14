@@ -88,3 +88,8 @@ Example 2: "Someone from a competitor customer just visited our pricing page"
 
 Example 3: "Scrape our competitor LinkedIn followers for outreach"
 -> Clay/Phantombuster to scrape followers, enrich with company data, filter ICP, score at 15pts base. Personalized outreach referencing category interest and your key differentiator. Stack with other signals to prioritize
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

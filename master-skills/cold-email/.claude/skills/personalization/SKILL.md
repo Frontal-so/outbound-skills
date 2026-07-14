@@ -82,3 +82,8 @@ We helped {{similar_company}} solve that before their new hire even started -- s
 
 Open to a quick chat?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

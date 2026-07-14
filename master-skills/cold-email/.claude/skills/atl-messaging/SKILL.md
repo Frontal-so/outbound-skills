@@ -84,3 +84,8 @@ The average cost of a data breach in {{industry}} hit $4.5M this year.
 
 Open to a quick comparison?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

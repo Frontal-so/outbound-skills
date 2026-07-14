@@ -116,3 +116,8 @@ How do I find mutual connections with VCs in my portfolio company's network?
 ```
 Write an email using trigger #37 (Mutual Connections with DM at Prospective Company).
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

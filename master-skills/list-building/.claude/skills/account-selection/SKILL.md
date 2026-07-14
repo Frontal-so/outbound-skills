@@ -59,3 +59,8 @@ Clay, BuiltWith, Apollo, HubSpot, LinkedIn Campaign Manager, ZenABM/Fibbler
 
 **Example 3:** "How do I track which accounts are progressing?"
 → Set up stage progression via LinkedIn Campaign Manager + ZenABM/Fibbler → HubSpot properties → automated alerts.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

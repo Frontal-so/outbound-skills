@@ -92,3 +92,8 @@ Just kidding. I'm a real person.
 
 But seriously -- did {{topic}} resonate at all?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

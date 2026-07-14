@@ -63,3 +63,8 @@ Rewrite this email to be more specific and use loss aversion.
 ```
 Make this email "cheeky" without being unprofessional.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

@@ -71,3 +71,8 @@ Sales Navigator caps at 2,500 results per search. Bypass by segmenting:
 
 **Example 3:** "How do I find founders of recently funded startups?"
 -> Boolean: `(Founder OR "Co-Founder" OR CEO)`. Filters: Headcount 1-200, Changed jobs past 90 days. Company keywords: `(seed OR "series A" OR "series B" OR startup)`. Supplement with Clay Find People using "Past experience" filter.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

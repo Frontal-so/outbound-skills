@@ -148,3 +148,8 @@ User Request
 
 **Example 6: "What subject line should I use?"**
 --> Route to **subject-lines**. Read `{SKILL_BASE}/resources/frameworks/writing-frameworks.md`. Provide 3-5 options with A/B test recommendation.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

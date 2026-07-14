@@ -100,3 +100,8 @@ Clay.getCellStatus(#{{field_id}}) == "completed" AND {{previous_column}} == ""
 
 **Example 3:** "My Clay table is burning credits because enrichments run on every row"
 --> Add conditional runs to every paid column. Minimum: "field is empty". Better: "field is empty AND /domain is not empty". Check auto-update settings (disable during testing). Review credit usage report.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

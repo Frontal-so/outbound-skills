@@ -96,3 +96,8 @@ Adjust point values based on what matters most to your sales team.
 
 **Example 3:** "How do I adjust scoring for different campaigns?"
 --> Create separate scoring columns per campaign. ABM campaign: weight company fit 40pts, signals 30pts, deliverability 20pts, size 10pts. Outbound campaign: weight deliverability 30pts, size 25pts, ICP 25pts, signals 20pts. Use views to filter by each campaign's tier.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

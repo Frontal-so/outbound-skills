@@ -111,3 +111,8 @@ Which framework should I use for a prospect who just raised Series B?
 ```
 Create a "Challenge of Similar Companies" email for e-commerce brands doing $5-20M revenue.
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

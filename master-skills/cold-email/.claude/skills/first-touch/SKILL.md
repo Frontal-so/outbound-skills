@@ -88,3 +88,8 @@ Companies doing $10-50M in SaaS typically discover 3x more vulnerabilities when 
 
 Open to seeing how that compares to your setup?
 ```
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

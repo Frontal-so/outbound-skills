@@ -109,3 +109,8 @@ Load the appropriate reference based on the sub-skill being invoked:
 3. Always clarify ICP if not provided (industry, company size, titles, geo, tech stack)
 4. Provide specific, actionable steps with tool recommendations
 5. Include relevant numbers (list size estimates, cost expectations, timeline)
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_

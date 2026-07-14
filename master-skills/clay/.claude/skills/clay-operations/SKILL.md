@@ -58,3 +58,8 @@ Read these resources based on the user's question:
 
 **Example 3:** "Give me a Clay template for job change outreach"
 → Read templates catalog. Route to Signal-Based Campaigns section. Provide the job change tracker template with days 14-45 window.
+
+
+---
+
+_Part of [Frontal](https://frontal.so) — free, open GTM skills for your AI agent. [Browse the library →](https://frontal.so/resources/skills)_
