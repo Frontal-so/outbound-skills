@@ -344,4 +344,4 @@ Review [Clay's data provider tests](https://www.clay.com/data-tests) for provide
 
 ---
 
-> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

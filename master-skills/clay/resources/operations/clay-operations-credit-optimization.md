@@ -180,9 +180,8 @@ Pull headcounts for just 1 credit using Clay's built-in LinkedIn integration ins
 - **Clay University** — CRM enrichment, automated outbound, intent data modules
 - **Clay Help Center** — [docs.clay.com](https://docs.clay.com/en/)
 - **Clay Templates** — [clay.com/templates](https://www.clay.com/templates)
-- **Frontal Coaching** — [frontal.so/coaching](https://www.frontal.so/coaching)
 - **Bright Data** — [brightdata.com](https://brightdata.com/) (scraping browser, proxies)
 
 ---
 
-> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

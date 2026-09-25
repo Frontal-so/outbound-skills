@@ -157,4 +157,4 @@ Underused and alternative data sources organized by category. Many accessible vi
 
 ---
 
-> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).

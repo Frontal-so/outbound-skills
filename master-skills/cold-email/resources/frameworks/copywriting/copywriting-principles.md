@@ -210,11 +210,11 @@ Don't make the offer too good to be true (even if it is). Plausible > grandiose.
 
 ### Why It Matters
 
-Email providers scan content for spam patterns. Too many trigger words = higher spam score = junk folder.
+Mailbox providers evaluate sender and domain reputation, authentication, complaint rates, sending behavior, and content together. A single word does not decide inbox placement, but clusters of deceptive or high-pressure language can add risk and weaken replies.
 
-### Common Spam Word Categories
+### Language Patterns to Review
 
-| Category | Examples to Avoid |
+| Category | Examples to Review |
 |---|---|
 | Urgency & Pressure | "Act now," "Limited time," "Urgent," "Don't miss out," "Expires soon" |
 | Money & Offers | "Free," "Discount," "Cash," "Save big," "Double your," "Earn $," "100% free" |
@@ -222,18 +222,17 @@ Email providers scan content for spam patterns. Too many trigger words = higher 
 | Salesy Language | "Buy now," "Order today," "Click here," "Call now," "Subscribe" |
 | Suspicious | "This isn't spam," "You've been selected," "Dear friend," "As seen on" |
 
-### Generic Words to Avoid in B2B Copy
+### Generic Words That Weaken B2B Copy
 
 "Optimize," "streamline," "save time," "save money," "leverage," "synergy," "cutting-edge," "best-in-class" — everyone uses them, so they don't stand out.
 
 ### Spam Checker Tools
 
-- **Frontal Email Spam Checker** — https://frontal.so/free-tools/email-spam-checker
 - **Salesforge Spam Checker** — https://www.salesforge.ai/tools/email-spam-checker
 - **Mailmeteor Spam Checker** — https://mailmeteor.com/spam-checker
 - **Instantly built-in checker** — available in the sequence editor
 
-**Best practice:** Run every campaign through a spam checker before sending. If it flags issues, rewrite with more natural, conversational language.
+**Best practice:** Treat checker findings as one input. Review misleading or high-pressure phrasing, then validate authentication, reputation, list quality, sending behavior, and inbox placement. A clean score does not guarantee inbox delivery.
 
 ---
 
@@ -262,4 +261,4 @@ Email providers scan content for spam patterns. Too many trigger words = higher 
 
 ---
 
-> **Built by [Frontal](https://www.frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
+> **Built by [Frontal](https://frontal.so) & [Ivan Falco](https://www.linkedin.com/in/ivanfalco/en/).** For questions on implementation or anything not covered here, reach out to Ivan directly on [LinkedIn](https://www.linkedin.com/in/ivanfalco/en/).
