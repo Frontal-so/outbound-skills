@@ -211,7 +211,6 @@ Chain multiple enrichments in one streamlined flow:
 - [Clay University](https://www.clay.com/university) — learning modules
 - [Signal Detection Tools](../../../signal-sourcer/resources/signal-detection-tools.md): tools for finding and monitoring buying signals
 - [Outbound Data-Source Guide](https://frontal.so/blog/outbound-list): practical sources for building outbound lists
-- [B2B Sales Triggers Guide](https://frontal.so/blog/b2b-sales-triggers): observable triggers and verification steps
 - [Trigify.io Guide](https://b2b-boosted.subpage.co/trigify-social-signals) — campaign automation
 
 ---
